@@ -6,3 +6,9 @@ title:: hls__labuladong的算法秘籍V2.8_1665032880646_0
   ls-type:: annotation
   hl-page:: 396
   id:: 633e62da-93e5-4b48-ae56-635196cba065
+- [:span]
+  ls-type:: annotation
+  hl-page:: 394
+  id:: 633e63dc-49f9-4c3f-9949-2c0c192a35ff
+  hl-type:: area
+  hl-stamp:: 1665033178917
