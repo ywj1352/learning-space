@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "633e591c-7921-4f76-b79a-cbfb0c32cdad", :page 191, :position {:bounding {:x1 71.65625, :y1 369.08331298828125, :x2 284.60418701171875, :y2 395.75, :width 991.5999333333333, :height 1403.1999666666666}, :rects ({:x1 71.65625, :y1 369.08331298828125, :x2 284.60418701171875, :y2 395.75, :width 991.5999333333333, :height 1403.1999666666666}), :page 191}, :content {:text "深入理解前中后序"}, :properties {:color "blue"}}]}
