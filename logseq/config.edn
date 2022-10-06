@@ -227,7 +227,7 @@
 
  ;; Enable all your properties to have corresponding pages
  :property-pages/enabled? true
- :zotero/settings-v2 {"default" {:type-id "ywj1352", :zotero-linked-attachment-base-directory "G:\\work\\github\\learning-space"}}
+ :zotero/settings-v2 {"default" {:type-id "ywj1352", :zotero-linked-attachment-base-directory "G:\\work\\github\\learning-space", :extra-tags "", :zotero-data-directory "C:\\Users\\YWJ\\Zotero"}}
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}
